@@ -1,0 +1,54 @@
+---
+title: "Samuel Doria"
+format: html
+---
+
+![Créditos: [Diario Red](https://www.diario-red.com/articulo/america-latina/bolivia-cinco-candidaturas-derechas-elecciones-presidenciales/20250516120000047515.html)](2.webp)
+
+## Resumen Económico del Programa de Gobierno de Alianza UNIDAD (Bolivia 2025–2030)
+
+**Estabilización Urgente:**
+
+-   Resolver la escasez de dólares con un ajuste macroeconómico integral (control de déficit fiscal, inflación y tipo de cambio).
+-   Recuperar reservas internacionales (RIN) mediante créditos del FMI y organismos multilaterales (USD 3.500 millones disponibles).
+
+**Reforma Fiscal y Gasto Público:**
+
+-   Reducir el gasto corriente estatal en 20%, cerrar empresas públicas deficitarias y eliminar entidades redundantes.
+-   Focalizar subsidios (combustibles) y mantener bonos sociales (Juancito Pinto, Renta Dignidad).
+
+**Reactivación Productiva:**
+
+-   Revolución del emprendimiento: 1 millón de nuevos emprendimientos, con *hubs* tecnológicos y simplificación de trámites.
+-   **Exportaciones**: Liberar trabas para agroindustria, carne, forestal y turismo (meta: USD 3.000 millones en turismo).
+-   **Litio y minería**: Atraer inversiones privadas con cogestión regional; auditoría a proyectos existentes.
+
+**Sector Energético e Hidrocarburos:**
+
+-   **Transición energética**: 45% de electricidad renovable para 2030 (solar, eólica).
+-   **Reestructurar YPFB**: Modernizar refinerías, explorar nuevos yacimientos y permitir importación privada de combustibles.
+
+**Integración Global:**
+
+-   **Cielos abiertos**: Facilitar vuelos internacionales y convertir Viru Viru (Santa Cruz) en *hub* regional.
+-   Atraer inversión extranjera: Seguridad jurídica, tratados comerciales y reinserción en organismos internacionales.
+
+**Formalización Económica:**
+
+-   Combatir la informalidad con incentivos tributarios, devolución de impuestos por consumo formal y control del contrabando.
+
+**Enfoque**: Superar el modelo extractivista, priorizando emprendimiento, diversificación productiva y austeridad fiscal.
+
+## Programa de Gobierno
+
+<details>
+
+<summary><strong>Ver PDF del Plan de Gobierno de Alianza UNIDAD</strong></summary>
+
+<br>
+
+<iframe width="800" height="800" src="Samuel Doria Medina.pdf" style="border:1px solid #ccc;">
+
+</iframe>
+
+</details>

@@ -1,0 +1,50 @@
+---
+title: "Tuto Quiroga"
+format: html
+---
+
+![Créditos: [Opinión Bolivia](https://www.opinion.com.bo/articulo/pais/tuto-sorprende-gerente-yango-como-vice-manfred-espera-hoy/20250516000057972480.html)](3.webp)
+
+## Resumen Económico del Plan de Gobierno de Alianza Libre
+
+El plan diagnostica una triple crisis económica:
+
+-   **Balanza de pagos**: Escasez de dólares, déficit comercial (importaciones \> exportaciones) y tipo de cambio paralelo (Bs 15/\$).
+-   **Fiscal**: Déficit del 10% del PIB (2024), gasto público descontrolado y deuda insostenible.
+-   **Energética**: Caída en producción de gas, importación masiva de combustibles y riesgo de colapso eléctrico.
+
+**Soluciones clave:**
+
+-   **Estabilización**: Acuerdo con el FMI (USD 2,000–4,000 millones) y otros organismos para obtener liquidez, reprogramar deuda y reducir el déficit fiscal al 3% del PIB mediante recortes de gasto superfluo y corrupción.
+
+-   **Tipo de cambio único flexible**: Reinstaurar el sistema *Bolsín* para eliminar el mercado paralelo.
+
+-   **Atracción de inversiones**: Seguridad jurídica, sistema tributario simplificado (competitivo regionalmente) y repatriación de capitales fugados (USD 10,000 millones).
+
+**Reactivar producción:**
+
+-   **Hidrocarburos**: Nuevos contratos transparentes, incentivos a exploración y diversificación energética (renovables).
+
+-   **Minería/Litio**: Marco competitivo para inversión privada.
+
+-   **Agro/Industria**: Impulso a biocombustibles, seguridad jurídica para propiedades y reducción de contrabando.
+
+-   **Empleo**: Programas de obras públicas intensivas en mano de obra y subsidios temporales a empresas que contraten.
+
+-   **Salvar empresas**: "Hospital de empresas" para reestructurar negocios viables y facilitar quiebras ágiles de inviables.
+
+**Objetivo final**: Recuperar credibilidad internacional, generar 750,000 empleos y sentar bases para un crecimiento sostenible alejado del *populismo y corrupción* de los últimos 19 años.
+
+## Programa de Gobierno
+
+<details>
+
+<summary><strong>Ver PDF del Plan de Alianza Libre</strong></summary>
+
+<br>
+
+<iframe width="800" height="800" src="TutoQuiroga.pdf" style="border:1px solid #ccc;">
+
+</iframe>
+
+</details>

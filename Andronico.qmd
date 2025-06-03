@@ -1,0 +1,61 @@
+---
+title: "Andrónico Rodriguez"
+format: html
+---
+
+![Créditos: [Yahoo! Noticias](https://es-us.noticias.yahoo.com/heredero-evo-morales-partido-postular-233414669.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABOcDrScIQsrTjgwI_9irjgak25m93QZNHBMzM0tlk99tEWUZYaGf_rIs2nrUT4JHtwHT_7CPL--UIQYqeyjvu_-cExY2hDypk2s2jkYvt24aN3TVQv7mrrU20kSI1DReX3OQvCOtIxg3vIqINzy0-wTf__PuBiuiHOFqLz_ZFtF)](5.jpeg)
+
+## Resumen Económico del Programa de Gobierno de la Alianza Popular (Bolivia)
+
+**Austeridad fiscal:**
+
+-   Reducción del gasto superfluo (salarios altos en el Estado, ministerios redundantes).
+-   Congelamiento de nuevos ítems públicos, excepto en salud/educación.
+-   Subsidios focalizados (no generalizados).
+
+**Estabilización macroeconómica:**
+
+-   Defensa del tipo de cambio mediante promoción de exportaciones no tradicionales (agroindustria, textiles, turismo).
+-   Fortalecimiento de reservas con explotación estatal de oro y control de salida de divisas.
+-   Reforma gradual de subsidios a combustibles.
+
+**Reactivación productiva:**
+
+-   Industrialización soberana de recursos estratégicos: litio (baterías, no solo carbonato), minería (fundiciones estatales) e hidrocarburos (nueva ley para atraer inversiones).
+-   Impulso al turismo como pilar económico (marca país, infraestructura, promoción internacional).
+-   **Economía del conocimiento**: incentivos a I+D, vinculación universidad–sector productivo.
+
+**Política tributaria:**
+
+-   Reforma del Impuesto a las Transacciones (IT).
+-   Lucha contra evasión y contrabando con tecnología (escáneres, IA).
+-   Simplificación de trámites aduaneros.
+
+**Deuda pública:**
+
+-   Reconversión de deuda de corto a largo plazo.
+-   Renegociación transparente con acreedores.
+-   Auditoría ciudadana.
+
+**Transición energética:**
+
+-   Matriz diversificada (solar, eólica, biocombustibles).
+-   Sustitución de diésel importado.
+-   "Revolución del litio" con valor agregado.
+
+**Enfoque central:**\
+Superar el modelo extractivista dependiente de hidrocarburos, priorizando industrialización, soberanía tecnológica y diversificación productiva con justicia social.
+
+## Programa de Gobierno
+
+<details>
+
+<summary><strong>Ver PDF del Plan de Gobierno Alianza Popular (Bolivia)</strong></summary>
+
+<br>
+
+<iframe width="800" height="800" src="Andrónico.pdf" style="border:1px solid #ccc;">
+
+</iframe>
+
+</details>

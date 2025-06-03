@@ -1,0 +1,62 @@
+---
+title: "Jaime Dunn"
+format: html
+---
+
+![Créditos: [El Deber](https://eldeber.com.bo/pais/nueva-generacion-patriotica-inscribira-dunn-y-uriona-como-su-binomio-en-las-elecciones-generales_513599/)](4.webp)
+
+## Resumen Económico del Plan de Gobierno de Nueva Generación Patriótica (NGP)
+
+**Diagnóstico:**
+
+-   **Crisis económica**: Déficit fiscal insostenible, inflación creciente, pérdida de poder adquisitivo y dependencia de recursos naturales (gas).
+-   **Colapso productivo**: Inversión privada desincentivada por altos impuestos, sobre-regulaciones e inseguridad jurídica.
+-   **Modelo fracasado**: Intervencionismo estatal, corrupción sistémica y economía informal proliferante.
+
+**Propuestas Clave:**
+
+**Reducción del Estado:**
+
+-   Recorte del gasto público (≥8% del PIB), eliminación de ministerios innecesarios y empresas estatales deficitarias.
+-   Estado limitado a funciones esenciales (justicia, seguridad, salud básica, educación).
+
+**Libertad económica:**
+
+-   Eliminación de barreras aduaneras, cupos de exportación y monopolios estatales.
+-   Apertura a inversión extranjera (eliminación de trabas legales e impositivas).
+
+**Reforma tributaria:**
+
+-   IVA único del 10%, eliminación de impuestos a transacciones financieras y utilidades extraordinarias.
+-   Simplificación del sistema tributario para emprendedores.
+
+**Propiedad privada y seguridad jurídica:**
+
+-   Titulación masiva de tierras urbanas/rurales, penalización de invasiones y expropiaciones arbitrarias.
+-   Protección de derechos de propiedad para atraer inversión.
+
+**Diversificación productiva:**
+
+-   Incentivos a sectores no extractivos (tecnología, agroindustria, turismo).
+-   "Dividendos ciudadanos" por renta de recursos naturales.
+
+**Estabilidad macroeconómica:**
+
+-   Control de inflación, fortalecimiento de reservas internacionales y tipo de cambio estable.
+
+**Objetivo final:**\
+Transición hacia una economía de libre mercado, con sector privado como motor de crecimiento, reducción de dependencia de recursos naturales y creación de empleo formal.
+
+## Programa de Gobierno
+
+<details>
+
+<summary><strong>Ver PDF del Plan de Gobierno de NGP</strong></summary>
+
+<br>
+
+<iframe width="800" height="800" src="Jaime Dunn.pdf" style="border:1px solid #ccc;">
+
+</iframe>
+
+</details>

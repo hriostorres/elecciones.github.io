@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Elecciones Bolivia (2025-2030)"
+  favicon: "icono.jpg"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Inicio
+      - href: Samuel.qmd
+        text: Samuel D.
+      - href: Tuto.qmd
+        text: Tuto Q.
+      - href: Dunn.qmd
+        text: Jaime Dunn
+      - href: Andronico.qmd
+        text: Andrónico R.
+      - href: Manfred.qmd
+        text: Manfred R.
+      - icon: envelope
+        href: mailto:hermogenesdavid.rt@gmail.com
+     
+      
+      
+  page-footer:
+      left: |
+        &copy; David Rios, 2025<br>
+        All content licensed under <i class='bi-badge-cc'></i>
+        [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+      right: |
+        Site built with <a href='https://quarto.org/'>Quarto</a>
+
+
+format:
+  html:
+    theme:
+      light: simplex
+      dark: darkly
+    css: styles.css
+    toc: true
+    includes:
+      after-body: translate.Rhtml
+
+editor: visual
+

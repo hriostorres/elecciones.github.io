@@ -1,0 +1,75 @@
+---
+title: "Elecciones Generales 2025"
+---
+
+![](1.png)
+
+## Hola, bienvenidos/as
+
+Mi nombre es [Hermogenes David Rios](https://hriostorres.github.io/about.html) y actualmente curso mi tercer año de universidad, donde estudio dos carreras: Economía y Estadística. He creado esta página web con el objetivo de **informar a los bolivianos y bolivianas** sobre las próximas elecciones presidenciales en Agosto 2025.
+
+Bolivia atraviesa una **grave crisis económica**, y considero que las propuestas para enfrentar esta situación deberían ser una de las principales preocupaciones de la ciudadanía.
+
+Lamentablemente, existe mucha desinformación sobre los candidatos y sus planes de gobierno. Todas las propuestas económicas aquí presentadas fueron **extraídas, leídas y resumidas directamente de los Programas de Gobierno** que los partidos entregaron al Tribunal Supremo Electoral (TSE).
+
+Lee más sobre tus candidatos favoritos:
+
+-   [Samuel Doria](Samuel.qmd)
+
+-   [Tuto Quiroga](Tuto.qmd)
+
+-   [Jaime Dunn](Dunn.qmd)
+
+-   [Andrónico Rodriguez](Andronico.qmd)
+
+-   [Manfred Reyes](Manfred.qmd)
+
+::: callout-tip
+## Importante
+
+Esta página **no promueve ni apoya a ningún candidato en particular**, sino que tiene como propósito brindar **información clara, verificada y accesible**.
+:::
+
+Gracias por visitar esta página. Espero que te ayude a tomar una decisión informada.
+
+## Preguntas Frecuentes
+
+<details>
+
+<summary><strong>¿Por qué solo se incluyen ciertos candidatos?</strong></summary>
+
+Los candidatos fueron seleccionados en base a su relevancia pública y nivel de apoyo, considerando los resultados de encuestas preliminares publicadas por la Red Unitel.
+
+</details>
+
+<details>
+
+<summary><strong>¿Cuál es el enfoque de cada resumen?</strong></summary>
+
+Cada análisis se enfoca específicamente en las propuestas económicas de los candidatos, dado el contexto de crisis que atraviesa el país.
+
+</details>
+
+<details>
+
+<summary><strong>¿Por quién pienso votar?</strong></summary>
+
+El voto es secreto y representa un derecho constitucional de todos los ciudadanos bolivianos. Este proyecto busca informar, no influenciar.
+
+</details>
+
+<details>
+
+<summary><strong>¿Dónde puedo ver los Programas de Gobierno originales?</strong></summary>
+
+Los documentos originales presentados al Tribunal Supremo Electoral (TSE) están enlazados al final de cada resumen. Ahí puedes revisar el contenido completo de cada propuesta tal como fue registrada oficialmente.
+
+</details>
+
+<details>
+
+<summary><strong>¿Cómo puedo colaborar con este proyecto?</strong></summary>
+
+Puedes mandarme un correo al <strong>hermogenesdavid.rt\@gmail.com</strong> para conversar sobre cómo podrías ayudar. Toda colaboración es bienvenida, desde compartir la página hasta aportar sugerencias o correcciones.
+
+</details>

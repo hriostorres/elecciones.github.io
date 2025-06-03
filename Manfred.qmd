@@ -1,0 +1,79 @@
+---
+title: "Manfred Reyes"
+format: html
+---
+
+![Créditos: [El Día](https://www.eldia.com.bo/2025-05-19/politica/manfred-presenta-a-medrano-como-candidato-a-vicepresidente-y-mucarzel-aspira-al-senado.html)](6.jpg)
+
+## Resumen Económico del Programa de Gobierno de APB (Sumate)
+
+### Modelo Económico: "Bolivia 180°"
+
+**Estado facilitador:**\
+Promueve alianzas público-privadas (APP), seguridad jurídica y libre empresa.
+
+### Objetivos clave:
+
+-   Reducir déficit fiscal (recorte del 18% en ministerios, eliminar subsidios a combustibles).
+-   Atraer inversión extranjera con estabilidad normativa y "no confiscación de activos".
+-   Diversificar exportaciones (soja, carne, litio, turismo) y potenciar sectores no tradicionales.
+
+### Medidas Urgentes
+
+**Estabilidad macroeconómica:**
+
+-   Restaurar independencia del Banco Central.
+-   Tipo de cambio fijo y frenar emisión monetaria.
+-   Reducir inflación ("impuesto más dañino").
+
+**Reforma tributaria:**
+
+-   Bajar IVA del 13% al 10%.
+-   Eliminar Impuesto a Grandes Fortunas (IGF).
+-   Reducir IUE (Impuesto a las Utilidades) del 25% al 20%.
+
+**Incentivos productivos:**
+
+-   Créditos blandos para exportadores y PYMES vía Instituto de Fomento al Desarrollo Nacional (IFDN).
+-   Exenciones fiscales a emprendedores que formalicen y contraten personal.
+
+### Sectores Estratégicos
+
+**Agroindustria:**\
+Titulación masiva de tierras, riego, créditos y seguridad alimentaria.
+
+**Energía y Minería:**
+
+-   Reactivar exploración de hidrocarburos.
+-   Industrializar litio con *offtake agreements* (ventas anticipadas).
+-   Hidroeléctricas y energía nuclear para centros de datos de IA.
+
+**Turismo:**\
+Liberalizar visas, promover "Bolivia Abierta" y ecoturismo.
+
+### Infraestructura e Inserción Global
+
+-   Corredores biocéanicos (vial, ferroviario, aéreo) para exportaciones.
+-   **Diplomacia del desarrollo**: Embajadas como promotoras de inversiones y exportaciones.
+
+### Resultados Esperados
+
+-   Formalizar economía, generar empleo y reducir pobreza mediante inversión privada.
+-   Posicionar a Bolivia como *hub* logístico y energético en la región.
+
+**En esencia:**\
+Transición de un Estado intervencionista a uno facilitador, con énfasis en mercado, inversión privada y exportaciones para superar la crisis económica.
+
+## Programa de Gobierno
+
+<details>
+
+<summary><strong>Ver PDF del Plan de Gobierno de APB (Súmate) (Bolivia)</strong></summary>
+
+<br>
+
+<iframe width="800" height="800" src="Manfred.pdf" style="border:1px solid #ccc;">
+
+</iframe>
+
+</details>
