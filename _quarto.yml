@@ -6,6 +6,7 @@ project:
 website:
   title: "Elecciones Bolivia (2025-2030)"
   favicon: "icono.jpg"
+  google-analytics: G-ZYQH66TEJ4
   navbar:
     right:
       - href: index.qmd
