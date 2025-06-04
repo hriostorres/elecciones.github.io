@@ -1,0 +1,80 @@
+---
+title: "Reporte del Fondo Monetario International (FMI)"
+format: html
+---
+
+![Crédito: [**El Deber**](https://eldeber.com.bo/economia/gobierno-de-bolivia-pide-retrasar-publicacion-de-informe-del-fmi-y-tuto-quiroga-exige-transparencia_516346/)](FMI.jpeg)
+
+## Contexto:
+
+El 2 de junio de 2025, el Fondo Monetario Internacional (FMI) publicó su informe económico sobre la situación en Bolivia. Tras muchas disputas, el FMI emitió un comunicado señalando que el informe estaba listo desde mayo de 2025, pero que “las autoridades necesitaban más tiempo para considerar su publicación.”
+
+### Resumen de la Situación Económica de Bolivia (2025)
+
+El FMI reporta que Bolivia enfrenta graves desequilibrios macroeconómicos, agravados por caídas estructurales en la producción de gas, tensiones sociopolíticas y choques climáticos. Los principales desafíos incluyen:
+
+1.  **Desaceleración del Crecimiento**\
+    El crecimiento del PIB real se moderó a **2,1%** en 2024 (desde 3,1% en 2023), debido a la caída en la producción de hidrocarburos, una débil producción agrícola por el fenómeno de El Niño, y las interrupciones causadas por la escasez de divisas y bloqueos de caminos. Se proyecta una desaceleración adicional a **1,1% en 2025**.
+
+2.  **Alta Inflación**\
+    La inflación se disparó a **10% a finales de 2024**, la más alta en una década, y alcanzó **14,6% en marzo de 2025**, impulsada por el aumento en los costos de importación, la baja producción agrícola y la dinámica entre salarios y precios.
+
+3.  **Déficits Fiscales**\
+    El déficit fiscal superó el **10% del PIB en 2023–24**, debido a la caída en los ingresos por hidrocarburos (que bajaron a **2,2% del PIB en 2024**), exenciones tributarias y un mayor gasto social. La deuda pública aumentó al **95% del PIB** en 2024.
+
+4.  **Desequilibrios Externos**
+
+    -   Las reservas internacionales netas están críticamente bajas en **\$2 mil millones (2,1 meses de importaciones)**, con un tipo de cambio paralelo **80% más débil** que el oficial.\
+    -   El déficit en cuenta corriente se redujo a **2,7% del PIB en 2024** por la compresión de importaciones, pero sigue siendo insostenible.
+
+5.  **Riesgos en el Sector Financiero**
+
+    -   Los bancos enfrentan presión por controles de tasas de interés y desaceleración del crédito, aunque la adecuación de capital mejoró a **13,5%** en 2024.\
+    -   La cartera en mora (NPLs) subió a **3,2%**, con riesgos derivados de regulaciones flexibles y posibles salidas de depósitos.
+
+------------------------------------------------------------------------
+
+### **¿**Qué acciones debe de tomar el Gobierno Boliviano según el FMI?
+
+1.  **Reformas Cambiarias y de Política Monetaria**
+    -   **Realinear el tipo de cambio**: Abandonar el tipo de cambio fijo insostenible con el dólar y transitar hacia un régimen flexible. Se requiere una devaluación escalonada (por encima del paralelo) para reconstruir reservas y recuperar competitividad.
+    -   **Ajustar la política monetaria**: Eliminar controles de tasas de interés y adoptar un objetivo de base monetaria para contener la inflación. Detener la financiación del déficit fiscal por parte del banco central.
+2.  **Consolidación Fiscal** *(Meta: ajuste del 8% del PIB en 3 años)*
+    -   **Eliminar subsidios a los combustibles**: Reducir gradualmente los subsidios que representan **3,9% del PIB** (2024), reemplazándolos con transferencias sociales focalizadas.
+    -   **Reducir la masa salarial pública**: Limitar el crecimiento nominal de los salarios y eliminar bonos extraordinarios (por ejemplo, el *doble aguinaldo*).
+    -   **Movilizar ingresos**: Eliminar exenciones de IVA y aranceles, ampliar la base del IVA e introducir impuestos progresivos sobre la renta y la propiedad (rendimiento potencial: **1,85% del PIB** del impuesto a la renta de personas físicas).
+3.  **Salvaguardas al Sector Financiero**
+    -   Fortalecer la supervisión bancaria y las pruebas de estrés (NPLs al **3,2%**).
+    -   Diversificar las inversiones del fondo de pensiones (Gestora), actualmente con **32% en deuda pública**.
+    -   Regular los criptoactivos para evitar riesgos de fuga de capitales (volumen de transacciones: **\$135 millones tras la liberalización**).
+4.  **Reformas Estructurales**
+    -   **Impulsar la productividad**: Eliminar techos a las exportaciones, controles de precios y cuotas de crédito.
+    -   **Reducir la informalidad** (tasa de pobreza: 36,5%): Simplificar la legislación laboral y vincular los beneficios sociales al empleo formal.
+    -   **Mejorar la gobernanza**: Fortalecer marcos anticorrupción (por ejemplo, declaraciones patrimoniales, independencia judicial).
+5.  **Red de Protección Social**
+    -   Mejorar la focalización de los programas sociales (gasto actual: **8,2% del PIB**) para proteger a los grupos vulnerables durante el ajuste.
+
+------------------------------------------------------------------------
+
+### Riesgos de No Actuar
+
+-   **Ajuste desordenado**: Una mayor caída de reservas podría desencadenar hiperinflación, fuga de capitales y una crisis de deuda (deuda pública proyectada en **118,9% del PIB en 2025** incluso con reformas).\
+-   **Inestabilidad política**: Las elecciones de agosto de 2025 podrían retrasar las reformas necesarias.
+
+### Recomendación del FMI
+
+Se requiere un **ajuste creíble y anticipado** para evitar una crisis. El FMI está dispuesto a apoyar a Bolivia mediante asesoría técnica y financiamiento potencial.
+
+## Documento Original del FMI:
+
+<details>
+
+<summary><strong>Ver PDF del Plan de Alianza Libre</strong></summary>
+
+<br>
+
+<iframe width="800" height="800" src="IMF_Bolivia_June&#39;25.pdf" style="border:1px solid #ccc;">
+
+</iframe>
+
+</details>

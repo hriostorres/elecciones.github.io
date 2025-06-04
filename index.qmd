@@ -4,9 +4,9 @@ title: "Elecciones Generales 2025"
 
 ![](1.png)
 
-## Hola, bienvenidos/as
+## Hola, bienvenidos/as,
 
-Mi nombre es [Hermogenes David Rios](https://hriostorres.github.io/about.html) y actualmente curso mi tercer año de universidad, donde estudio dos carreras: Economía y Estadística. He creado esta página web con el objetivo de **informar a los bolivianos y bolivianas** sobre las próximas elecciones presidenciales en Agosto 2025.
+Mi nombre es [Hermogenes David Rios](https://hriostorres.github.io/) y actualmente curso mi tercer año de universidad, donde estudio dos carreras: Economía y Estadística. He creado esta página web con el objetivo de **informar a los bolivianos y bolivianas** sobre las próximas elecciones presidenciales en Agosto 2025.
 
 Bolivia atraviesa una **grave crisis económica**, y considero que las propuestas para enfrentar esta situación deberían ser una de las principales preocupaciones de la ciudadanía.
 
@@ -24,6 +24,14 @@ Lee más sobre tus candidatos favoritos:
 
 -   [Manfred Reyes](Manfred.qmd)
 
+<br>
+
+## Infórmate:
+
+-   Resumen del reporte del [Fondo Monetario Internacional (FMI) sobre la situación ecónomica de Bolivia](FMI%20Bolivia.qmd) publicada el 2 de Junio del 2025.
+
+<br>
+
 ::: callout-tip
 ## Importante
 
@@ -31,6 +39,8 @@ Esta página **no promueve ni apoya a ningún candidato en particular**, sino qu
 :::
 
 Gracias por visitar esta página. Espero que te ayude a tomar una decisión informada.
+
+<br>
 
 ## Preguntas Frecuentes
 

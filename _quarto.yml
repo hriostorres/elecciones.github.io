@@ -37,13 +37,15 @@ website:
 
 format:
   html:
+    includes:
+      after-body: translate.Rhtml
     theme:
       light: simplex
       dark: darkly
     css: styles.css
     toc: true
-    includes:
-      after-body: translate.Rhtml
+    include-in-header: GoogleAnalytics.html
+
 
 editor: visual
 
